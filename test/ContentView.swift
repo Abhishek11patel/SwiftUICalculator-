@@ -100,7 +100,7 @@ struct ContentView: View {
         .padding()
     }
 }
-
+//added this coment line just to learn PR,ignore
 #Preview {
     ContentView()
 }
